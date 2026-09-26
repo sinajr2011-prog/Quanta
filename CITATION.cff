@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use Quanta in research or educational work, please cite the project."
+title: "Quanta"
+version: "2.0.0"
+date-released: "2026-09-25"
+type: software
+license: "AGPL-3.0-only"
+repository-code: "https://github.com/sinajr2011-prog/Quanta"
+url: "https://github.com/sinajr2011-prog/Quanta"
+authors:
+  - name: "Cypher Group"
