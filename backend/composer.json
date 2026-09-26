@@ -1,0 +1,7 @@
+{
+  "name": "quanta/school-platform",
+  "description": "Quanta school platform framework-ready application layer",
+  "type": "project",
+  "require": {"php": ">=8.1"},
+  "autoload": {"psr-4": {"Quanta\\App\\": "app/"}}
+}

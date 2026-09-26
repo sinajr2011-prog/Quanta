@@ -1,0 +1,11 @@
+Options -Indexes
+
+# Deny direct access to sensitive backend files
+<FilesMatch "^(config\.php|config\.local\.php|config\.local\.example\.php|upgrade\.php|\.env.*|.*\.(sql|log|bak|old|orig|dump))$">
+  Require all denied
+</FilesMatch>
+
+# Extra lock: upgrade.php must never be publicly reachable after migration
+<Files "upgrade.php">
+  Require all denied
+</Files>
