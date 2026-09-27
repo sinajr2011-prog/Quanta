@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="data:image/png;base64,PLACEHOLDER_LOGO" alt="Quanta Logo" width="220"/>
+<img src="assets/quanta-logo.svg" alt="Quanta Logo" width="220"/>
 
 # ⚡ Quanta 2.0.0
 
@@ -228,6 +228,6 @@ cd frontend && npm ci && npm run build
 
 *Quanta — A School for the Future*
 
-<img src="data:image/png;base64,PLACEHOLDER_MARK" alt="Quanta Mark" width="72"/>
+<img src="assets/quanta-mark.svg" alt="Quanta Mark" width="72"/>
 
 </div>
