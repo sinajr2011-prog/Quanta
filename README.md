@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/quanta-logo.svg" alt="Quanta Logo" width="220"/>
-
 # ⚡ Quanta 2.0.0
 
 ### A School for the Future · مدرسه در ابعاد آینده
@@ -13,11 +11,10 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-8-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge)](RELEASE-2.0.0-FINAL.md)
-[![Stars](https://img.shields.io/github/stars/sinajr2011-prog/Quanta?style=for-the-badge)](https://github.com/sinajr2011-prog/Quanta/stargazers)
 
 **Role-based school operating system** with Personal AI, memory, learning maps, grounded research & human-confirmed AI actions.
 
-[🚀 Quick Start](#-quick-start) · [🧠 Intelligence](#-intelligence-guarantees) · [📁 Structure](#-project-layout) · [🤝 Contribute](#-contributing)
+[🚀 Quick Start](#-quick-start) · [🧠 Intelligence](#-intelligence-guarantees) · [🎨 Brand](#-brand-identity) · [🤝 Contribute](#-contributing)
 
 🌐 **Language:** English (default) · [فارسی](#-نسخه-فارسی)
 
@@ -141,6 +138,25 @@ php backend/upgrade.php
 
 ---
 
+## 🎨 Brand Identity
+
+Official Quanta brand — the glowing quantum loop mark, modern geometric typography, deep navy + electric blue/purple gradient.
+
+**Tagline:** Learn · Connect · Grow  
+
+**Color Palette:** Purple → Blue → Cyan → Silver  
+
+The full brand system includes:
+- Primary logo & monogram
+- App icons (light / dark)
+- Mockups (phone, business cards, hoodie, office reception, laptop)
+- Landing pages (light & dark themes)
+- Student dashboard UI
+
+All brand assets and UI screenshots from the official design system are ready and will be placed in `assets/`.
+
+---
+
 ## 🧪 QA
 
 ```bash
@@ -227,7 +243,5 @@ cd frontend && npm ci && npm run build
 **Built with ❤️ for the future of education**
 
 *Quanta — A School for the Future*
-
-<img src="assets/quanta-mark.svg" alt="Quanta Mark" width="72"/>
 
 </div>
