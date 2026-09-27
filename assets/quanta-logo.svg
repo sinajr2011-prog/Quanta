@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00d4ff"/>
+      <stop offset="50%" style="stop-color:#0088ff"/>
+      <stop offset="100%" style="stop-color:#0044aa"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="400" height="400" fill="#020814"/>
+  <!-- stylized quantum loop -->
+  <path d="M200 80 C280 80 320 140 320 200 C320 280 260 320 200 320 C140 320 80 280 80 200 C80 140 120 80 200 80 Z" 
+        fill="none" stroke="url(#g)" stroke-width="12" filter="url(#glow)" opacity="0.9"/>
+  <path d="M200 120 C250 120 280 160 280 200 C280 250 240 280 200 280 C160 280 120 250 120 200 C120 160 150 120 200 120 Z" 
+        fill="none" stroke="url(#g)" stroke-width="8" filter="url(#glow)" opacity="0.7"/>
+  <circle cx="200" cy="200" r="18" fill="#00e5ff" filter="url(#glow)"/>
+  <text x="200" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#a0e0ff" font-weight="bold">کوانتا</text>
+  <text x="200" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6080a0">مدرسه، در ابعاد آینده</text>
+</svg>
