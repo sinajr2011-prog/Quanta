@@ -14,11 +14,22 @@
 
 **Role-based school operating system** with Personal AI, memory, learning maps, grounded research & human-confirmed AI actions.
 
-[🚀 Quick Start](#-quick-start) · [🧠 Intelligence](#-intelligence-guarantees) · [🎨 Brand](#-brand-identity) · [🤝 Contribute](#-contributing)
+[🚀 Quick Start](#-quick-start) · [🧠 Intelligence](#-intelligence-guarantees) · [🎨 Brand](#-brand-identity) · [👨‍💻 Creator](#-creator--team) · [🤝 Contribute](#-contributing)
 
 🌐 **Language:** English (default) · [فارسی](#-نسخه-فارسی)
 
 </div>
+
+---
+
+## 👨‍💻 Creator & Team
+
+**Built by Sina Jafari (سینا جعفری) — 14 years old**  
+Founder & lead developer of Quanta.
+
+This project is developed with his international team that includes members from **South Africa** and **England**, working together under the Cypher Group spirit.
+
+> A 14-year-old student from Iran building a full school operating system with AI, together with teammates across continents.
 
 ---
 
@@ -146,14 +157,7 @@ Official Quanta brand — the glowing quantum loop mark, modern geometric typogr
 
 **Color Palette:** Purple → Blue → Cyan → Silver  
 
-The full brand system includes:
-- Primary logo & monogram
-- App icons (light / dark)
-- Mockups (phone, business cards, hoodie, office reception, laptop)
-- Landing pages (light & dark themes)
-- Student dashboard UI
-
-All brand assets and UI screenshots from the official design system are ready and will be placed in `assets/`.
+The full brand system (logo variations, app icons, phone/business card/hoodie/office/laptop mockups, light & dark landing pages, and the student dashboard) is designed and ready. The official brand images you provided are prepared for the `assets/` folder.
 
 ---
 
@@ -192,7 +196,7 @@ Clean PRs, bug reports and thoughtful ideas are always welcome! 🚀
 ## 📬 Links
 
 - **Repository**: [sinajr2011-prog/Quanta](https://github.com/sinajr2011-prog/Quanta)
-- **Vibe**: Cypher Group
+- **Creator**: Sina Jafari (14) + international team (South Africa & England)
 - **Version**: `2.0.0-FINAL` (25 Sep 2026)
 
 ---
@@ -202,6 +206,8 @@ Clean PRs, bug reports and thoughtful ideas are always welcome! 🚀
 
 ### مدرسه در ابعاد آینده
 
+**ساخته شده توسط سینا جعفری (۱۴ ساله)** با تیم بین‌المللی‌اش که اعضایی از آفریقای جنوبی و انگلیس داره.
+
 **Quanta** یک پلتفرم عملیاتی مدرسه است که مدیریت مدرسه، هوش یادگیری، تحقیق، ارتباطات و AI آگاه از مجوز رو در **یک محصول واحد** جمع کرده.
 
 - 👨‍🎓 دانش‌آموز داشبورد شخصی + AI همراه داره  
@@ -210,7 +216,7 @@ Clean PRs, bug reports and thoughtful ideas are always welcome! 🚀
 - 🏫 مدیر مدرسه نبض واقعی مدرسه (School Pulse) رو در اختیار داره  
 - 🔐 همه چیز با RBAC قوی و تأیید انسانی برای اقدامات مهم محافظت می‌شه  
 
-> **نسخه ۲.۰** فونداسیون مدیریت مدرسه رو به یک پلتفرم هوشمند تبدیل کرده: حافظه شخصی، نقشه‌های یادگیری، سیگنال‌های مدرسه، تحقیق grounded با citation، لاگ حسابرسی و اقدامات AI که فقط با تأیید انسان اجرا می‌شن.
+> **نسخه ۲.۰** فونداسیون مدیریت مدرسه رو به یک پلتفرم هوشمند تبدیل کرده.
 
 #### ویژگی‌های کلیدی
 
@@ -240,7 +246,7 @@ cd frontend && npm ci && npm run build
 
 <div align="center">
 
-**Built with ❤️ for the future of education**
+**Built with ❤️ by a 14-year-old and his global team**
 
 *Quanta — A School for the Future*
 
